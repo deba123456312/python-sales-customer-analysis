@@ -108,8 +108,8 @@ Key analytical summaries were exported to Excel for potential use in further rep
 * Data inspection
 * Duplicate detection
 * `groupby()`
-* nunique()
-* idxmax()
+* `nunique()`
+* `idxmax()`
 * Aggregation with `agg()`
 * Pivot tables
 * Sorting and filtering
